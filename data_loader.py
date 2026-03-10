@@ -1,3 +1,4 @@
+# load and check data
 import numpy as np
 import os
 import matplotlib.pyplot as plt

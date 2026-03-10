@@ -1,3 +1,4 @@
+# app data
 from brainflow import BoardShim, BrainFlowInputParams
 from brainflow.data_filter import DataFilter, FilterTypes,  AggOperations, NoiseTypes
 import time

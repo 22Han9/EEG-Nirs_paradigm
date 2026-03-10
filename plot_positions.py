@@ -1,6 +1,6 @@
 """
 ========================
-Plot electrode positions
+plot electrode positions
 ========================
 
 .. currentmodule:: eeg_positions

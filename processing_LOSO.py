@@ -1,3 +1,4 @@
+#processe half neutral emotion for LOSO
 import numpy as np
 import os
 import mne

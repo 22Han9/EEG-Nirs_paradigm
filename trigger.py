@@ -1,3 +1,4 @@
+# print trigger
 import numpy as np
 
 # data = np.loadtxt("D:/graduate/EEG+fNIRS/app2 _1000Hz/data/2025_10_28_11_33_30_fnris.csv").T
